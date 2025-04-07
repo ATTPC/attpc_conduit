@@ -16,4 +16,4 @@ log = "0.4.26"
 numpy = "0.23.0"
 pyo3 = { version = "0.23.5", features = ["macros"] }
 pyo3-log = "0.12.1"
-tokio = { version = "1.44.0" , features = ["full"] }
+tokio = { version = "1.44.2" , features = ["full"] }
